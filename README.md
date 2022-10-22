@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://img.shields.io/badge/-test-green)
-![](https://developers.google.com/profile/badges/playlists/android/android-basics-compose-unit-1-pathway-1)
+
